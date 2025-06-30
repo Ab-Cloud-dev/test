@@ -1,0 +1,3 @@
+touch Code.txt Log.txt Output.txt
+
+
